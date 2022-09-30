@@ -1,0 +1,22 @@
+{
+  "name": "mmm_racepace-predictor",
+  "version": "1.0.0",
+  "description": "Predicts race time depending on your training logs from strava",
+  "main": "MMM-RacePace-Predictor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamAndrews1013/MMM_RacePace-Predictor.git"
+  },
+  "author": "William Andrews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamAndrews1013/MMM_RacePace-Predictor/issues"
+  },
+  "homepage": "https://github.com/WilliamAndrews1013/MMM_RacePace-Predictor#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  }
+}
